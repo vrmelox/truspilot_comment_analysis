@@ -13,11 +13,12 @@ byers journey.
 
 ## Tools used
 Variety tools are involved in this project:
-    - Python
-    - BeautifulSoup
-    - time
-    - random
-    - requests
-    - docx
-    - TextBlob
-    - Jupyter Notebook
+    * ![Python](https://img.shields.io/badge/langage-Python-blue)
+    * ![HTML](https://img.shields.io/badge/langage-HTML-orange)
+    * BeautifulSoup
+    * time
+    * random
+    * requests
+    * docx
+    * TextBlob
+    * Jupyter Notebook

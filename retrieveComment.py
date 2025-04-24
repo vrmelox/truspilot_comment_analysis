@@ -21,8 +21,6 @@ def retrieveComment(company, fichier, articles):
             to_csv += ";;" + rating_tag.get("data-service-review-rating", "N/A")
         else:
             to_csv += ";;" + "Nan"
-        if person:
-            notesTotal += int(person["rating"])
         comment_tag = article.find("p", class_=lambda c: c and "typography_body-l__v5JLj" in c)
         if comment_tag:
             person["comment"] = comment_tag.text
