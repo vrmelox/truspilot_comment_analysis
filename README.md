@@ -1,7 +1,7 @@
 # truspilot_comment_analysis
 
 ## Purpose
-From a list of the richest companies in the world, i chose the most present on
+From a [list of the richest companies in the world](https://fr.statista.com/statistiques/660678/classement-plus-grandes-compagnies-monde-chiffre-affaires-monde/), i chose the most present on
 Trustpilot platform to check if the comments about their product is somehow on
 line with their prosperity.
 
